@@ -36,3 +36,12 @@
   color: #116feb;
   margin-right: 14px;
 }
+
+.my-movies div button {
+  background: red;
+  color: #fff;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
