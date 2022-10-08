@@ -1,3 +1,7 @@
+.loading {
+  margin-top: 14px;
+}
+
 .list-movies {
   max-width: 800px;
   margin: 14px auto;
